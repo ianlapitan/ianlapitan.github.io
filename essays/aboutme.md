@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "About Me"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-18
 published: true
