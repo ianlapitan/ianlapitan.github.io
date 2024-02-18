@@ -19,7 +19,7 @@ In my experience with this WOD, I found it quite challenging but overall doable.
 resulting in a finished time of about 34 minutes. In my first attempt, I have done most of the instructions correctly, but I did have a 
 spelling mistake which caused me to hit a block resulting in a DNF finishing time. For the simple but elusive mistake, I misspelled "quantity" as "quantitity" when declaring variables which messed up the variables I put down in the table causing missing values in the table when I open the web page. 
 
-Before I did my second attempt, I watched the screen cast to ensure I was doing everything correctly, and for the most part I was. I did have to add some changes to the table such as the \$ before the price and extended price variables, plus the toFixed(2) function to keep the prices to 2 decimal places. Furthermore, I remember making the mistake of adding the variable "subtotal" to the table when I initialized it in the script as "sub_total" ,but luckily I was able to catch that mistake right away.
+Before I did my second attempt, I watched the screen cast to ensure I was doing everything correctly, and for the most part I was. I did have to add some changes to the table such as the 'backslash $' before the price and extended price variables, plus the toFixed(2) function to keep the prices to 2 decimal places. Furthermore, I remember making the mistake of adding the variable "subtotal" to the table when I initialized it in the script as "sub_total" ,but luckily I was able to catch that mistake right away.
 
 To be better prepared I could've reviewed the slides on variables and expressions. Additionally I could've researched more on extremely helpful functions like the toFixed function that I foolishly forgot about. 
 
