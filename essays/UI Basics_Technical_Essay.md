@@ -18,15 +18,12 @@ On Browserhistory2, I found that there were less tasks, but more technical conce
 
 Lastly, Browserhistory3 was a little more challenging with again, even less tasks, but more technical concepts. This one took me 3 attempts, as I hit DNF the first and the second attempt even after watching the screencast. One thing I struggled with that had me stuck for several minutes was spacing out my navigation bar at the top of the page. Before my third attempt, I used AI to give me an idea on how to do this task since the method screencast provided did not work on my web server. This allowed me to complete the WOD around 13 minutes in.
 
+*Invoice1 Experience*
 
-The Invoice1 dealt with creating a sales receipt that contains 5 different products using a table as well as computing 
-the numbers using expressions and variables. Here is the code to my WOD page: 
+The Invoice1 WOD dealt with creating a sales receipt that contains 5 different products using a table as well as computing 
+the numbers ourselves using expressions and variables. Here is the code to my WOD page: https://github.com/ianlapitan/ITM352_S24_repo/blob/main/WODs/Invoice1/invoice.html
 In my experience with this WOD, I found it quite challenging but overall doable. It took me a total of 2 attempts to finish 
 resulting in a finished time of about 34 minutes. In my first attempt, I have done most of the instructions correctly, but I did have a 
 spelling mistake which caused me to hit a block resulting in a DNF finishing time. For the mistake, I misspelled "quantity" as "quantitity"
 when declaring variables which messed up the variables I put down in the table causing missing values in the table when I open the web
-page. Describe what you to did to prepare. What did you do similarly or differently from the WODs before this?
-Before I did my second attempt, I watched the screen cast to ensure I was doing everything correctly, and for the most part I was.
-I did have to add some changes to the table such as the \$ before the price and extended price variables and the toFixed(2) 
-function to keep the prices to 2 decimal places. Furthermore, I remember making the mistake of adding the variable "subtotal" to the table
-when I initialized it as "sub_total" ,but luckily I was able to catch that mistake rightt away.Discuss what you could have done to be better prepared and what you might try differently for the next WOD.To be better prepared I could've reviewed the slides on variables and expressions. Additionally I could've reviewed more on extremely helpful functions like the toFixed function that I foolishly forgot aboutt. 
+page. Describe what you to did to prepare. What did you do similarly or differently from the WODs before this? Before I did my second attempt, I watched the screen cast to ensure I was doing everything correctly, and for the most part I was. I did have to add some changes to the table such as the \$ before the price and extended price variables and the toFixed(2) function to keep the prices to 2 decimal places. Furthermore, I remember making the mistake of adding the variable "subtotal" to the table when I initialized it as "sub_total" ,but luckily I was able to catch that mistake right away. Discuss what you could have done to be better prepared and what you might try differently for the next WOD. To be better prepared I could've reviewed the slides on variables and expressions. Additionally I could've reviewed more on extremely helpful functions like the toFixed function that I foolishly forgot aboutt. 
